@@ -3,14 +3,29 @@
     padding: 100px 0 100px 0;
 }
 
-h1{
+h1 {
     color: black;
     font-size: 9vw;
     font-weight: bolder;
 }
 
-h2{
+h2 {
     color: white;  
     font-size: 7vw;  
     font-weight: 100;
 }
+
+.own-button { 
+    color: #ccce00;
+    background-color: black; 
+    border: 1px solid black; 
+    font-size: 20pt; 
+    font-weight: 600; 
+    margin-top: 80px; 
+}
+
+.own-button:hover { 
+    color: black; 
+    background-color: #ccce00; 
+}
+
