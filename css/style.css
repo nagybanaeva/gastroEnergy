@@ -53,3 +53,29 @@ main {
     background-color: #9d7d76;
     background-image:  url("../img/background.jpg");
 }
+
+form {
+    padding: 40px 0 40px 0;
+}
+
+footer {
+    background-image: url("../img/footer-background.jpg");
+    border-top: 30px solid #ccce00;
+    color: white;
+}
+
+#email1, #password1 {
+    background-color: #373737;
+    border: 1px solid #151515;
+}
+
+.own-form-button {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+
+.own-form-button:hover {
+    background: none;
+    border: 1px solid white;
+}
