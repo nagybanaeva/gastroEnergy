@@ -48,3 +48,8 @@ h2 {
     color: white;
     border: 1px solid white;
 }
+
+main {
+    background-color: #9d7d76;
+    background-image:  url("../img/background.jpg");
+}
