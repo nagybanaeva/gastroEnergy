@@ -1,6 +1,7 @@
 .own-container {
     background: #ccce00;
     padding: 100px 0 100px 0;
+    text-align: center;
 }
 
 h1 {
@@ -29,3 +30,21 @@ h2 {
     background-color: #ccce00; 
 }
 
+.own-cards {
+    background-color: #151515;
+    color: white;
+    margin: 50px;
+}
+
+.own-card-button {
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    border: 1px solid black;
+}
+
+.own-card-button:hover {
+    background-color: #151515;
+    color: white;
+    border: 1px solid white;
+}
