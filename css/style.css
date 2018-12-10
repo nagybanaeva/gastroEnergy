@@ -33,7 +33,7 @@ h2 {
 .own-cards {
     background-color: #151515;
     color: white;
-    margin: 50px;
+    margin: 50px !important;
 }
 
 .own-card-button {
@@ -96,4 +96,12 @@ footer hr {
     color: #aaa; 
     font-weight: 100; 
     padding: 50px;
+}
+
+.own-copyright-text { 
+    background-color: black; 
+    text-align: center; 
+    color: white; 
+    padding: 30px 0 30px 0; 
+    text-transform: uppercase; 
 }
